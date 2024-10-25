@@ -8,8 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Nuansa Berlian is a premier jewelry brand dedicated to crafting exquisite
-      pieces that capture the essence of elegance and beauty.
+      Nuansa Berlian is a premier jewelry brand dedicated to creating exquisite
+      pieces that embody elegance and style. We invite you to collaborate with
+      us by promoting our stunning collections. As a partner, you can earn
+      commissions for every sale made through your referrals.
     text: >
       Our mission is to connect with individuals who share a passion for fine
       jewelry and inspire them to promote our stunning collections. Through our
