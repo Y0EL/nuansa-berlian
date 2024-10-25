@@ -86,6 +86,7 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+author: content/data/it-developer.json
 ---
 #### **Desain Beragam untuk Setiap Momen**
 
