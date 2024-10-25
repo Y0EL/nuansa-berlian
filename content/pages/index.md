@@ -41,7 +41,7 @@ sections:
           borderRadius: large
           borderWidth: 1
     badge:
-      label: This is a badge
+      label: Together We Shine Brighter
       color: text-primary
       type: Badge
     elementId: ''
