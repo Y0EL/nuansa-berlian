@@ -103,10 +103,14 @@ sections:
               borderRadius: x-large
       - title: Bahan Berkualitas
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Kami menggunakan material pilihan terbaik untuk setiap perhiasan,
+          memastikan ketahanan dan keindahan yang tak lekang oleh waktu. Setiap
+          potongan dirancang untuk memberikan kenyamanan dan daya tarik
+          maksimal, sehingga Anda dapat tampil percaya diri setiap saat.
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
