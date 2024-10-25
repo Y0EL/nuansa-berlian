@@ -159,7 +159,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Mulai Perjalanan
+      - label: Mulai Kerjasama
         altText: Kerjasama Nuansa Berlian
         url: 'https://wa.me/0817104060?text=ref_sow'
         showIcon: false
