@@ -101,7 +101,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
+      - title: Bahan Berkualitas
         subtitle: ''
         text: >+
           Kami menggunakan material pilihan terbaik untuk setiap perhiasan,
