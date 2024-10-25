@@ -9,15 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-
-      Nuansa Berlian is a premier jewelry brand dedicated to crafting exquisite
-      pieces that capture the essence of elegance and beauty. Our mission is to
-      connect with individuals who share a passion for fine jewelry and inspire
-      them to promote our stunning collections. Through our collaboration
-      program, we empower our partners to share our unique designs with their
-      audiences while earning commissions for every successful transaction. With
-      Nuansa Berlian, you not only promote elegance but also embark on a journey
-      of shared success and growth
+      Through our collaboration program, we empower our partners to share our
+      unique designs with their audiences while earning commissions for every
+      successful transaction. With Nuansa Berlian, you not only promote elegance
+      but also embark on a journey of shared success and growth
     actions:
       - label: Get started
         altText: ''
