@@ -71,10 +71,17 @@ sections:
       - type: FeaturedItem
         title: Exclusivity
         subtitle: Desain pilihan dan Ekslusif
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Perhiasan kami menampilkan desain eksklusif Perhiasan kami terbuat
+          dari bahan berkualitas
+
+          yang memadukan keindahan dan keunikan, tinggi dengan harga yang tetap
+          terjangkau. Elegan,
+
+          menjadikannya pilihan sempurna untuk tampil indah, dan ramah di
+          kantong, sempurna untuk
+
+          istimewa. mempercantik setiap momenmu.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
