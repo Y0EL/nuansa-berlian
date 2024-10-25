@@ -131,7 +131,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
         tagline: ''
-      - title: 200%
+      - title: Koleksi Terlengkap
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
