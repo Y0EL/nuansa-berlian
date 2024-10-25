@@ -160,7 +160,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Ayo Kerjasama
-        altText: ''
+        altText: Kerjasama Nuansa Berlian
         url: /
         showIcon: false
         icon: arrowRight
