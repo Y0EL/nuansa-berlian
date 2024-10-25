@@ -102,7 +102,7 @@ sections:
             self:
               borderRadius: x-large
       - title: ''
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
           Kami menggunakan material pilihan terbaik untuk setiap perhiasan,
           memastikan ketahanan dan keindahan yang tak lekang oleh waktu. Setiap
