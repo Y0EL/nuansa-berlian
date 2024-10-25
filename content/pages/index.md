@@ -313,7 +313,8 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://www.dropbox.com/scl/fi/bkmsykra8x8frdb4mxc4r/SKU-XL074c.mp4?rlkey=zjelo4o2ke9xvqy6ebv1ch3k3&st=6afu1ol0&dl=0
       autoplay: true
       loop: true
       muted: true
