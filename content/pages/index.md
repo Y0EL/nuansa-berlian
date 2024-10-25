@@ -161,7 +161,7 @@ sections:
     actions:
       - label: Ayo Kerjasama
         altText: Kerjasama Nuansa Berlian
-        url: /
+        url: 'https://wa.me/0817104060?text=ref_sow'
         showIcon: false
         icon: arrowRight
         iconPosition: right
