@@ -130,7 +130,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-        tagline: Bahan Berkualitas
+        tagline: ''
       - title: 200%
         subtitle: Faster
         text: >-
