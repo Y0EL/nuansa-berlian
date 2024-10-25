@@ -8,10 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Nuansa Berlian is a premier jewelry brand dedicated to creating exquisite
-      pieces that embody elegance and style. We invite you to collaborate with
-      us by promoting our stunning collections. As a partner, you can earn
-      commissions for every sale made through your referrals.
+      Kami adalah merek perhiasan yang menghadirkan keindahan dan gaya. Ayo,
+      bantu kami promosikan koleksi keren ini! Setiap kali ada penjualan dari
+      referensimu, kamu bisa mendapatkan komisi. Mudah, kan?
     text: |+
       **Let’s work together to spread beauty and achieve success!**
 
