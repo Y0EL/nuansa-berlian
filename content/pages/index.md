@@ -133,10 +133,14 @@ sections:
         tagline: ''
       - title: Koleksi Terlengkap
         subtitle: Find Your Perfect Piece
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Kami menawarkan beragam koleksi perhiasan yang lengkap, mulai dari
+          yang klasik hingga modern. Setiap koleksi dirancang untuk memenuhi
+          berbagai selera dan kesempatan, memastikan Anda menemukan perhiasan
+          yang sempurna untuk setiap momen.
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
