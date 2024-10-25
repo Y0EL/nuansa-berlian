@@ -188,7 +188,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Brand Terpercaya
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
