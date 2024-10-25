@@ -159,7 +159,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Ayo Kerjasama
         altText: ''
         url: /
         showIcon: false
