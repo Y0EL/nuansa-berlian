@@ -263,7 +263,8 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: ''
+      url: >-
+        https://www.dropbox.com/scl/fi/bkmsykra8x8frdb4mxc4r/SKU-XL074c.mp4?rlkey=zjelo4o2ke9xvqy6ebv1ch3k3&st=ed5aoe15&dl=0
       controls: false
       aspectRatio: '16:9'
       styles:
