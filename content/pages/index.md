@@ -130,6 +130,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: Elegance Meets Durability
       - title: 200%
         subtitle: Faster
         text: >-
