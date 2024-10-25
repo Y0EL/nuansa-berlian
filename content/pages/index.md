@@ -10,7 +10,7 @@ sections:
     subtitle: >-
       Kami adalah merek perhiasan yang menghadirkan keindahan dan gaya. Ayo,
       bantu kami promosikan koleksi keren ini! Setiap kali ada penjualan dari
-      referensimu, kamu bisa mendapatkan komisi. Mudah, kan?
+      referensimu, kamu bisa mendapatkan komisi. Mudah, kan
     text: |+
       **Let’s work together to spread beauty and achieve success!**
 
