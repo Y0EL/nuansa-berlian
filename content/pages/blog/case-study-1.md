@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/img-placeholder.svg
-  altText: Case study 1
+  altText: Kalung
   styles:
     self:
       borderRadius: large
