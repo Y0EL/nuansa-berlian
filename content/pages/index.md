@@ -60,7 +60,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Keuntungan Affiliasi
+      text: Brand Values
       color: text-dark
       styles:
         self:
