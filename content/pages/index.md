@@ -102,7 +102,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Bahan Berkualitas
-        subtitle: ''
+        subtitle: Elegance Meets Durability
         text: >+
           Kami menggunakan material pilihan terbaik untuk setiap perhiasan,
           memastikan ketahanan dan keindahan yang tak lekang oleh waktu. Setiap
