@@ -130,7 +130,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-        tagline: Elegance Meets Durability
+        tagline: Bahan Berkualitas
       - title: 200%
         subtitle: Faster
         text: >-
