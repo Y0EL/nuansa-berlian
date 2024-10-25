@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/XL020-SILVER.png
-  altText: Case study 2
+  altText: Exclusive Necklaces
   styles:
     self:
       borderRadius: x-large
