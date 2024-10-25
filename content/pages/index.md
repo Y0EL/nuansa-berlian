@@ -39,6 +39,7 @@ sections:
       styles:
         self:
           borderRadius: large
+          borderWidth: 1
     badge:
       label: This is a badge
       color: text-primary
