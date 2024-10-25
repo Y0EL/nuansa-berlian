@@ -8,8 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      At Nuansa Berlian, we create jewelry that is more than just an accessory;
-      it’s a statement of style. Each collection is crafted with love and
+      It’s a statement of style. Each collection is crafted with love and
       attention to detail, showcasing beauty you can wear.
     text: |+
       **Let’s work together to spread beauty and achieve success!**
