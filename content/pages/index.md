@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/1.png
+      url: /images/LOGO_NUANSA_BERLIAN_-removebg-preview.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
