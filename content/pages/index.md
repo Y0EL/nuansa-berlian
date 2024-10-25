@@ -15,8 +15,7 @@ sections:
       jewelry and inspire them to promote our stunning collections. Through our
       collaboration program, we empower our partners to share our unique designs
       with their audiences while earning commissions for every successful
-      transaction. With Nuansa Berlian, you not only promote elegance but also
-      embark on a journey of shared success and growth
+      transaction.
     actions:
       - label: Get started
         altText: ''
