@@ -256,11 +256,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Nuansa Berlian
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      embodies beauty and quality in the world of jewelry. With a diverse
+      collection ranging from elegant necklaces to romantic couple rings, each
+      piece reflects unique style and timeless elegance.
     media:
       title: Title of the video
       url: >-
