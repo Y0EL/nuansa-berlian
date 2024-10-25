@@ -8,9 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Kami adalah merek perhiasan yang menghadirkan keindahan dan gaya. Ayo,
-      bantu kami promosikan koleksi keren ini! Setiap kali ada penjualan dari
-      referensimu, kamu bisa mendapatkan komisi. Mudah, kan
+      At Nuansa Berlian, we create jewelry that is more than just an accessory;
+      it’s a statement of style. Each collection is crafted with love and
+      attention to detail, showcasing beauty you can wear.
     text: |+
       **Let’s work together to spread beauty and achieve success!**
 
