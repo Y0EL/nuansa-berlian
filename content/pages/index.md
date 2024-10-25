@@ -101,7 +101,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Bahan Berkualitas
+      - title: ''
         subtitle: The Job Stuff
         text: >+
           Kami menggunakan material pilihan terbaik untuk setiap perhiasan,
